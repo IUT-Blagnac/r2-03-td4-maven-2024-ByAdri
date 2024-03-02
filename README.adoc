@@ -4,8 +4,8 @@ Pour que le bon programme se lance il faut remplacer la code.java dnas le fichie
 
 1. Il faut nettoyer : `mvn clean`
 
-2. Il faut compiler : `mvn compile`
+2. Il faut compiler le programme : `mvn compile`
 
-3. Il fautfabriquer une version exécutable : `mvn package`
+3. Il faut fabriquer une version exécutable : `mvn package`
 
-4. Il faut executer: `java -jar target.tp_qualite-1.0.jar`
+4. Il faut executer le programme : `java -jar target.tp_qualite-1.0.jar`
