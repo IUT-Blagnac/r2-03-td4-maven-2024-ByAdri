@@ -4,7 +4,7 @@ Pour que le bon programme se lance il faut remplacer la code.java dnas le fichie
 
 1. Il faut nettoyer : mvn clean
 
-2. Il faut compiler : mvn compile
+2. Il faut compiler : 'mvn compile'
 
 3. Il fautfabriquer une version exécutable : mvn package
 
